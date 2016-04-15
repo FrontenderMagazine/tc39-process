@@ -175,7 +175,7 @@
 [13]: https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions
 [14]: https://fetch.spec.whatwg.org/#concept-request
 
-[15]: http://www.2ality.com/2016/01/ecmascript-2016.html
+[15]: http://frontender.info/ecmascript-2016/
 [16]: http://www.2ality.com/2016/02/ecmascript-2017.html
 [17]: https://github.com/tc39/ecma262
 [18]: https://github.com/tc39/ecma262/blob/master/README.md
